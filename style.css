@@ -12,6 +12,7 @@ html, body {
     margin: 0;
     padding: 0;
     width: 100%;
+   
 }
 
 .nav ul {
@@ -28,7 +29,7 @@ html, body {
 .nav a {
     display: inline-block;
     letter-spacing: 0.1em;
-    padding: .5em;
+    padding: .1em;
     color: aliceblue;
     opacity: 0.8;
     text-decoration: none;
@@ -53,6 +54,7 @@ html, body {
     background-image: url('images/lp.images/lightning-1056419_640.jpg');
     background-blend-mode: multiply;
     background-size: cover;
+    overflow: hidden;
     width: 100%;
     height: auto;
     background-repeat: no-repeat;
