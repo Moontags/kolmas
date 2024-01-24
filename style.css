@@ -105,6 +105,7 @@ html, body {
         margin-right: auto;
         border: 0.5rem solid rgb(218, 216, 216);
         border-radius: .3rem;
+        overflow: hidden;
        
 }      
 .about-band-image-one {
